@@ -1,0 +1,9 @@
+kaggle.json
+download.py
+Dataset/country_platform_summary_2025.csv
+Dataset/DATA_DICTIONARY.csv
+Dataset/monthly_trends_2025.csv
+Dataset/top_creators_impact_2025.csv
+Dataset/top_hashtags_2025.csv
+Dataset/youtube_shorts_tiktok_trends_2025.csv
+utils.py
